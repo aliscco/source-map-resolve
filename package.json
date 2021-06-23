@@ -32,6 +32,6 @@
   },
   "devDependencies": {
     "jshint": "2.10.3",
-    "tape": "4.12.1"
+    "tape": "4.13.3"
   }
 }
